@@ -1,2 +1,1 @@
-# Inheritence-Kendaraan
-Penerapan konsep pewarisan pada kendaraan:v
+Inheritence/pewarisan secara singkat itu sebuah konsep dari OOP, yang mana Child program mewarisi function/method dari Main programnya
